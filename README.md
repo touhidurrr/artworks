@@ -1,2 +1,2 @@
-# artworks
-design or artworks i made for public. for licenses, check metadata.
+# touhidurrr/artworks
+Designs or artworks I made open to public. For licenses, check metadata.
